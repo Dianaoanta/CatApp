@@ -4,8 +4,8 @@ fun main() {
 
     binnie.walk(100)
     clyde.walk()
-    binnie.eat(15)
-    clyde.eat(10)
+    binnie.eat(5)
+    clyde.eat(18)
 
     println(binnie)
     println(clyde)
